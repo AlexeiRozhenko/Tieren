@@ -5,7 +5,7 @@ Oil production app
 
 At the moment, our multinational team develops the Streamlit ML application for predicting oil production for China Oilfield Services Limited (COSL). The application has already been created and uploaded in a private repository, however, for privacy reasons, the data should be updated so that the repo can be freely used. 
 
-But please don't get bored! For now let us advise you to read why we named this project [Tieren](https://www.chinadailyhk.com/article/355573) (this is super exciting, trust us 😎)
+But please do not get bored! For now let us advise you to read why we named this project [Tieren](https://www.chinadailyhk.com/article/355573) (this is super exciting, trust us 😎)
 
 **Team members and responsibilities:**
 1. Fahimeh Hadavimoghaddam, Associate professor and AI expert, is a project Team Lead responsible mostly for designing AI models and supervising the work ([Google Scholar](https://scholar.google.com/citations?user=kZSXOkcAAAAJ&hl=en))
